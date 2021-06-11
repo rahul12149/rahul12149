@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul12149" alt="rahul12149" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/@si08844211rahul" target="blank"><img src="https://img.shields.io/twitter/follow/@si08844211rahul?logo=twitter&style=for-the-badge" alt="@si08844211rahul" /></a> </p>
+
 - 🔭 I’m currently working on [Animated Web page design](https://github.com/rahul12149/Animated-Web-page-with-html-css)
 
 - 🌱 I’m currently learning **HTML/CSS/JAVASCRIPT/**
+
+- 👯 I’m looking to collaborate on [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 - 🤝 I’m looking for help with [shapl_al boot_camp](https://github.com/Divya-mariyam/ShapeAI_Bootcamp_BWD)
 
@@ -20,6 +24,12 @@
 - 📫 How to reach me **rahulsinghsikarwar11@gmail.com**
 
 - 📄 Know about my experiences [file:///D:/pages/straberry%20project/rahul3/index.html](file:///D:/pages/straberry%20project/rahul3/index.html)
+
+- ⚡ Fun fact **smille**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +45,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@Si08844211Rahul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@Si08844211Rahul" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul12149&show_icons=true&locale=en&layout=compact" alt="rahul12149" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul12149&show_icons=true&locale=en&layout=compact" alt="rahul12149" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul12149&show_icons=true&locale=en" alt="rahul12149" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul12149&" alt="rahul12149" /></p>
